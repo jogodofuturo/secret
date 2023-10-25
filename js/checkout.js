@@ -1,0 +1,1 @@
+const elements=document.getElementsByClassName("checkout-link");for(let e=0;e<elements.length;e++)elements[e].href="https://checkout.b4you.com.br/3aiWqB0zEn";
