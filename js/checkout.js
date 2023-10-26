@@ -1,1 +1,1 @@
-const elements=document.getElementsByClassName("checkout-link");for(let e=0;e<elements.length;e++)elements[e].href="https://checkout.b4you.com.br/3aiWqB0zEn";
+const elements=document.getElementsByClassName("https://go.perfectpay.com.br/PPU38CNATKF");for(let e=0;e<elements.length;e++)elements[e].href="https://go.perfectpay.com.br/PPU38CNATKF";
